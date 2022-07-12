@@ -1,4 +1,4 @@
-Write a Python program to calculate the area of a trapezoid.
+# Write a Python program to calculate the area of a trapezoid.
 
 h=float(input('Enter Height : '))
 val_1=float(input('Enter base 1 value :'))

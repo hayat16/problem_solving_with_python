@@ -1,8 +1,8 @@
-Write a Python program to calculate arc length of an angle and sector area of a circle.
-       Enter Radius: 5
-       Enter Angle:  60
-       Arc Length: ??
-       Sector Area:  ??
+# Write a Python program to calculate arc length of an angle and sector area of a circle.
+#        Enter Radius: 5
+#        Enter Angle:  60
+#        Arc Length: ??
+#        Sector Area:  ??
        
 import math
 r=float(input('Enter radius in radians : '))

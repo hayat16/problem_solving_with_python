@@ -1,4 +1,4 @@
-Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
+# Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
 
 C=float(input('Enter Tempatature in Celsius: '))
 F=(C*1.8)+32

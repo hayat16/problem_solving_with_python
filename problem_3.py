@@ -1,4 +1,4 @@
-Write a program which prompts the user for the height and width of a rectangle, calculate the area, diagonal, and perimeter.
+# Write a program which prompts the user for the height and width of a rectangle, calculate the area, diagonal, and perimeter.
 
 import math
 height=float(input('Enter Height: '))
